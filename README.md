@@ -32,9 +32,8 @@ The main goal of this project is to develop a machine learning model that can ac
 To run the Jupyter Notebook and reproduce the results of this project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required libraries by running `pip install -r requirements.txt` (if any are listed in the requirements file).
-3. Open `advertising_analysis.ipynb` using Jupyter Notebook or any compatible platform.
-4. Run the cells in the notebook sequentially to replicate the analysis, preprocessing, and model building.
+2. Open `advertising_analysis.ipynb` using Jupyter Notebook or any compatible platform.
+3. Run the cells in the notebook sequentially to replicate the analysis, preprocessing, and model building.
 
 ## Conclusion
 
